@@ -1,24 +1,8 @@
-# README
+# Rails-Weather-App | [Live Site](https://powerful-hamlet-23529.herokuapp.com/)
+  > A practical application based on the [Henri Weather App Interview Project](https://github.com/henri-home/henri-weather-interview-project)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Info
+  * 
+  * 
+  * 
+  * 
